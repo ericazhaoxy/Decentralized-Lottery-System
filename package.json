@@ -1,0 +1,27 @@
+{
+  "name": "decentralized-lottery-system",
+  "version": "1.0.0",
+  "description": "## A decentralized lottery smart contract (Solidity) with tests and Sepolia deployment.",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs",
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ericazhaoxy/Decentralized-Lottery-System.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ericazhaoxy/Decentralized-Lottery-System/issues"
+  },
+  "homepage": "https://github.com/ericazhaoxy/Decentralized-Lottery-System#readme",
+  "devDependencies": {
+    "hardhat": "^3.1.9"
+  }
+}
