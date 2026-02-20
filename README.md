@@ -27,3 +27,11 @@ A production-minded decentralized lottery (raffle) smart contract project design
 - test/ # automated tests
 - scripts/ # deploy scripts
 - docs/ # design docs, threat model, runbook
+
+## Quickstart
+
+### Install
+
+```bash
+npm install
+```
