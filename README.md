@@ -1,10 +1,6 @@
-# Decentralized-Lottery-System
+# Decentralized Lottery System - Sepolia
 
 ## A decentralized lottery smart contract (Solidity) with tests and Sepolia deployment.
-
-# Decentralized Lottery System (Sepolia)
-
-A production-minded decentralized lottery (raffle) smart contract project designed with security, testing, and deployability in mind. Built for Ethereum Sepolia testnet.
 
 ## Highlights
 
