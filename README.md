@@ -35,3 +35,33 @@ A production-minded decentralized lottery (raffle) smart contract project design
 ```bash
 npm install
 ```
+
+## Compile
+
+npx hardhat compile
+
+## Test
+
+npx hardhat test
+
+## Deployment (Sepolia)
+
+1. Create .env from .env.example
+2. Configure RPC + private key
+3. Deploy: npx hardhat run scripts/deploy.js --network sepolia
+
+## Docs
+
+- docs/design.md — architecture + state machine
+- docs/threat-model.md — attack surface + mitigations
+
+Roadmap
+
+- MVP Lottery contract
+- Full unit tests + coverage
+- Sepolia deployment + Etherscan verification
+- Chainlink VRF integration
+- Minimal frontend demo
+
+License
+MIT
