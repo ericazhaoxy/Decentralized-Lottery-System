@@ -1,0 +1,10 @@
+```gitignore
+node_modules
+.env
+coverage
+coverage.json
+typechain
+artifacts
+cache
+.DS_Store
+*.log
